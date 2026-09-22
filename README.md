@@ -1,1 +1,2 @@
-# alu-shell assignment
+# ALU Shell
+Shell scripting exercises for basics and permissions.
