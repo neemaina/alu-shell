@@ -1,4 +1,4 @@
-!/usr/bin/env bash
+#!/usr/bin/env bash
 # Init script that starts, stops and restarts manage_my_process
 PIDFILE="/var/run/my_process.pid"
 
